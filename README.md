@@ -1,4 +1,4 @@
-```markdown
+
 # Record Linkage
 
 This code performs record linkage, specifically de-duplication and matching, using TF-IDF similarity. It compares names from a messy dataset with inconsistent names against a clean dataset with accurate institution names. The goal is to identify matching pairs and calculate similarity scores.
@@ -90,9 +90,6 @@ matched_pairs = linkage.record_linkage(number_neighbors=1, max_difference=0.8, n
 
 Make sure to replace `'messy_data.csv'` and `'clean_data.csv'` with the actual paths to your datasets. Adjust the parameters of the methods according to your needs.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
 Feel free to further customize the README file according to your project's requirements.
