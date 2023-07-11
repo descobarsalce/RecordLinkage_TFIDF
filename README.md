@@ -90,4 +90,6 @@ matched_pairs = linkage.record_linkage(number_neighbors=1, max_difference=0.8, n
 
 Make sure to replace `'messy_data.csv'` and `'clean_data.csv'` with the actual paths to your datasets. Adjust the parameters of the methods according to your needs.
 
+Check out RecordLinkage_ExampleCode.ipynb for an example of the code used with real data.
+
 Feel free to further customize the README file according to your project's requirements.
