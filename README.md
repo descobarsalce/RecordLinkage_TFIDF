@@ -19,10 +19,10 @@ Make sure you have the following libraries installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/record-linkage.git
+   git clone https://github.com/descobarsalce/record-linkage.git
 
 Install the required dependencies:
-pip install -r requirements.txt
+pip install -r requirements_record_linkage.txt
 
 ## Usage
 
